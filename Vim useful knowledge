@@ -1,0 +1,4 @@
+to Copy all the content inside a file to clipboard in Mac
+
+use pbcopy from Vim
+:%w !pbcopy
